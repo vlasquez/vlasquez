@@ -7,7 +7,7 @@ I'm a software engineer located in Colombia 🇨🇴
 ![](https://img.shields.io/badge/Flutter-Dart%20-blue)
 ![](https://img.shields.io/badge/iOS-Swift%2FObjective--C-lightgrey)
 ![](https://img.shields.io/badge/.Net%20-C%23%2F%20VB.NET-blue)
-![](https://img.shields.io/badge/Others-PHP%2C%20JavaScript%2C%20Python-yellow)
+![](https://img.shields.io/badge/Others-C%2B%2B%2C%20PHP%2C%20JavaScript%2C%20Python-yellow)
 
 
 ## The journey until now
