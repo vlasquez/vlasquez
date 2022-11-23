@@ -12,7 +12,7 @@ I'm a software engineer located in Colombia 🇨🇴
 
 ## The journey until now
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlasquez&label=Views&color=blue&style=plastic" alt="Andres Velasquez" /> </p>
-<img align="left" alt="Aayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vlasquez&show_icons=true&theme=radical" />
+<img align="left" alt="Aayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vlasquez&show_icons=true&theme=tokyonight" />
 
 <a href="https://github.com/vlasquez/vlasquez">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlasquez&hide=html,text&title_color=688A08&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
