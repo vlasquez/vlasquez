@@ -11,7 +11,7 @@ I'm a software engineer located in Colombia 🇨🇴
 
 
 ## The journey until now
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vlasquez&label=Views&color=blue&style=plastic" alt="Andres Velasquez" /> </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlasquez&show_icons=true&theme=radical)
 
 <a href="https://github.com/vlasquez/vlasquez">
