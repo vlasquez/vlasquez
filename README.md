@@ -10,7 +10,7 @@ I'm a software engineer located in Colombia 🇨🇴
 ![](https://img.shields.io/badge/Others-C%2B%2B%2C%20PHP%2C%20JavaScript%2C%20Python-yellow)
 
 
-## The journey until now
+## The journey so far
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlasquez&label=Views&color=blue&style=plastic" alt="Andres Velasquez" /> </p>
 <img align="left" alt="Aayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vlasquez&show_icons=true&theme=tokyonight" />
 
