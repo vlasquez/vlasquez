@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vlasquez&label=Profile%20views&color=0e75b6&style=flat" alt="vlasquez" /> </p>
+
 ### Hello there 👋
 I'm a software engineer located in Colombia 🇨🇴
 
@@ -71,3 +73,10 @@ I'm a software engineer located in Colombia 🇨🇴
  <div align="left"> 
   <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=vlasquez&theme=vue" alt="vlasquez" />
  </div>
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/andres-velasquez-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-velasquez-developer" height="30" width="40" /></a>
+<a href="https://instagram.com/vlasquez53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlasquez53" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vlasquez53069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vlasquez53069" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vlasquez53069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vlasquez53069" height="30" width="40" /></a>
+</p>
