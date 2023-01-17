@@ -8,7 +8,7 @@ I'm a software engineer located in Colombia 🇨🇴
 <table>
    <tr>
 <td>
-   <img width="441"/>
+   <img width="500"/>
 <h4 align="left">Mobile:</h4>
    <p align="left">
                   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -25,7 +25,7 @@ I'm a software engineer located in Colombia 🇨🇴
    </td>
       
 <td>
-   <img width="441"/>
+   <img width="500"/>
    <h4 align="left">Frontend:</h4>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -85,7 +85,9 @@ I'm a software engineer located in Colombia 🇨🇴
  <div align="left"> 
   <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=vlasquez&theme=vue" alt="vlasquez" />
  </div>
- <h3 align="left">Connect with me:</h3>
+ 
+## Lets connect
+
 <p align="left">
 <a href="https://linkedin.com/in/andres-velasquez-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-velasquez-developer" height="30" width="40" /></a>
 <a href="https://instagram.com/vlasquez53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlasquez53" height="30" width="40" /></a>
