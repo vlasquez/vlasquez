@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlasquez&label=Profile%20views&color=0e75b6&style=flat" alt="vlasquez" /> </p>
 
 ### Hello there 👋
-I'm a software engineer located in Bogotá, Colombia 🇨🇴 ,right now working on Android apps, having fun with Flutter and passionate about sim racing.
+I'm a software engineer located in Bogotá, Colombia 🇨🇴, right now working on Android apps, having fun with Flutter, and passionate about sim racing.
 
 ## I have experience working with
 <h3 align="left">Languages and Tools:</h3>
@@ -84,7 +84,7 @@ I'm a software engineer located in Bogotá, Colombia 🇨🇴 ,right now working
   <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=vlasquez&show_icons=true&theme=vue&count_private=true" alt="vlasquez" />
  </div>
  
-## Lets connect
+## Let's connect
 
 <p align="left">
 <a href="https://linkedin.com/in/andres-velasquez-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-velasquez-developer" height="30" width="40" /></a>
