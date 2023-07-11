@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlasquez&label=Profile%20views&color=0e75b6&style=flat" alt="vlasquez" /> </p>
 
 ### Hello there 👋
-I'm a software engineer located in Bogotá, Colombia 🇨🇴
+I'm a software engineer located in Bogotá, Colombia 🇨🇴 ,right now working on Android apps, having fun with Flutter and passionate about sim racing.
 
 ## I have experience working with
 <h3 align="left">Languages and Tools:</h3>
@@ -87,8 +87,8 @@ I'm a software engineer located in Bogotá, Colombia 🇨🇴
 ## Lets connect
 
 <p align="left">
-<a href="https://linkedin.com/in/andres-velasquez-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-velasquez-developer" height="42" width="42" /></a>
-<a href="https://instagram.com/vlasquez53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlasquez53" height="42" width="42" /></a>
-<a href="https://www.hackerrank.com/vlasquez53069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vlasquez53069" height="42" width="42" /></a>
-<a href="https://www.leetcode.com/vlasquez53069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vlasquez53069" height="42" width="42" /></a>
+<a href="https://linkedin.com/in/andres-velasquez-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-velasquez-developer" height="30" width="40" /></a>
+<a href="https://instagram.com/vlasquez53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlasquez53" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vlasquez53069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vlasquez53069" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vlasquez53069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vlasquez53069" height="30" width="40" /></a>
 </p>
