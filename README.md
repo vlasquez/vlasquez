@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlasquez&label=Profile%20views&color=0e75b6&style=flat" alt="vlasquez" /> </p>
 
 ### Hello there 👋
-I'm a software engineer located in Bogotá, Colombia 🇨🇴, right now working on Android apps, having fun with Flutter, and passionate about sim racing.
+I'm a software engineer located in Bogotá, Colombia 🇨🇴, right now working on Android apps, having fun with Flutter, and passionate about sim racing 🏎️.
 
 ## I have experience working with
 <h3 align="left">Languages and Tools:</h3>
