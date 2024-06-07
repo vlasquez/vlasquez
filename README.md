@@ -78,7 +78,7 @@ I'm a software engineer located in Bogotá, Colombia 🇨🇴, right now working
 ## The journey so far
 <div align="left"> 
   <img align="top" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?card_width=450&username=vlasquez&show_icons=true&theme=vue&count_private=true&border_color=e4e2e2" />
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=vlasquez&hide=html,text&langs_count=8&count_private=true&theme=vue&border_color=e4e2e2" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=vlasquez&hide=html,text&langs_count=10&count_private=true&theme=vue&border_color=e4e2e2" />
  </div>
  <div align="left"> 
   <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?card_width=450&user=vlasquez&show_icons=true&theme=vue&count_private=true&border=e4e2e2" alt="vlasquez" />
